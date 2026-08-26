@@ -181,7 +181,7 @@ Segmented AWS environment demonstrating least-privilege IAM policy design, multi
 </p>
 
 <p align="center">
-🔗 <a href="https://github.com/kfran127/aws-cloud-security-lab">github.com/kfran127/aws-cloud-security-lab</a>
+🔗 <a href="https://github.com/kfran127/aws-cloud-security">github.com/kfran127/aws-cloud-security-lab</a>
 </p>
 
 <br>
